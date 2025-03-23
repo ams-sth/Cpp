@@ -1,15 +1,24 @@
 #include <iostream>
+#include <exception>
 
 using namespace std;
 
-void printHelloWorld()
-{
-    cout << "Hello World !" << endl;
+string printHelloWorld(string text){
+    try{
+    return text;
+    } 
+    catch (const exception& error) { // Catch standard exceptions
+        return "Error occurred";
+    } 
+    catch (...) { // Catch-all for unknown exceptions
+        cout << "An unknown error occurred." << endl;
+        return "Error occurred";
+    }
 }
 
 int main()
 {
-    printHelloWorld();
+    cout << printHelloWorld("Hello World") << endl;
     return 0;
 }
 
