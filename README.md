@@ -4,8 +4,6 @@
 
 #### **Phase 1: Programming Fundamentals**
 
-**Objective**: Understand the C++ language basics and get comfortable writing simple programs.
-
 1. **C++ Introduction**
 
    * History, features, and real-world use cases.
@@ -36,8 +34,6 @@
 ---
 
 #### **Phase 2: I/O and Control Flow**
-
-**Objective**: Build interactive programs and control logic flow.
 
 6. **Input and Output**
 
@@ -71,8 +67,6 @@
 
 #### **Phase 3: Intermediate Concepts**
 
-**Objective**: Work with memory, arrays, and structured data.
-
 11. **Arrays and Strings**
 
     * Single and multidimensional arrays.
@@ -104,8 +98,6 @@
 ---
 
 #### **Phase 4: Object-Oriented Programming**
-
-**Objective**: Apply OOP principles to model real-world systems.
 
 16. **Classes and Objects**
 
@@ -140,8 +132,6 @@
 ---
 
 #### **Phase 5: Advanced C++**
-
-**Objective**: Use advanced language features and work with files and templates.
 
 22. **Templates**
 
@@ -179,8 +169,6 @@
 
 #### **Phase 6: Problem-Solving and Real-World Skills**
 
-**Objective**: Improve coding fluency and apply skills to real-world problems.
-
 28. **Problem-Solving Strategies**
 
     * Debugging, code readability, breaking problems down.
@@ -204,8 +192,6 @@
 ---
 
 #### **Phase 7: Real-World Applications**
-
-**Objective**: Explore specialized areas and build a final portfolio project.
 
 32. **Systems Programming**
 
