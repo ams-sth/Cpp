@@ -24,17 +24,6 @@ C++ is commonly used in:
 
 ---
 
-Let me know if you'd like to continue this with a detailed C++ roadmap covering topics like:
-
-* Pointers and memory management
-* OOP in depth
-* Standard Template Library (STL)
-* Modern C++ features (C++11 to C++20)
-* Building real-world projects (e.g., games, compilers, tools)
-
-Ready when you are.
----
-
 ## **2. Legacy of C++**
 
 ### **Historical Background:**
