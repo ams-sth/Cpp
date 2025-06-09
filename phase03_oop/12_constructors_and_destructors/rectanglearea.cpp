@@ -3,7 +3,6 @@ using namespace std;
 
 class Rectangle {
     public:
-
     double length;
     double breadth;
 
